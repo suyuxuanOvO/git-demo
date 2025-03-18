@@ -13,5 +13,5 @@ hello Dingdang!hello Git!
 hello Dingdang!hello Git!
 hello Dingdang!hello Git!
 hello Dingdang!hello Git!
-hello Dingdang!hello Git!
-hello Dingdang!hello Git!
+hello Dingdang!hello Git! 
+hello Dingdang!hello Git! hot-fix
